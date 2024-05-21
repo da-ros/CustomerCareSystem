@@ -1,0 +1,10 @@
+.env
+__pycache__
+venv
+.venv
+env/
+venv/
+ENV/
+default.sqlite
+.default.sqlite
+./default.sqlite
